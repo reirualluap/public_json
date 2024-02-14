@@ -1,0 +1,71 @@
+[{
+  "event_date": null,
+  "event_timestamp": null,
+  "event_name": null,
+  "event_params": [{
+    "key": null,
+    "value": {
+      "string_value": null,
+      "int_value": null,
+      "float_value": null,
+      "double_value": null
+    }
+  }],
+  "event_previous_timestamp": null,
+  "event_value_in_usd": null,
+  "event_bundle_sequence_id": null,
+  "event_server_timestamp_offset": null,
+  "user_id": null,
+  "user_pseudo_id": null,
+  "privacy_info": {
+    "analytics_storage": null,
+    "ads_storage": null,
+    "uses_transient_token": null
+  },
+  "user_properties": [],
+  "user_first_touch_timestamp": null,
+  "user_ltv": {
+    "revenue": null,
+    "currency": null
+  },
+  "device": {
+    "category": null,
+    "mobile_brand_name": null,
+    "mobile_model_name": null,
+    "mobile_marketing_name": null,
+    "mobile_os_hardware_model": null,
+    "operating_system": null,
+    "operating_system_version": null,
+    "vendor_id": null,
+    "advertising_id": null,
+    "language": null,
+    "is_limited_ad_tracking": null,
+    "time_zone_offset_seconds": null,
+    "browser": null,
+    "browser_version": null,
+    "web_info": {
+      "browser": null,
+      "browser_version": null,
+      "hostname": null
+    }
+  },
+  "geo": {
+    "continent": null,
+    "country": null,
+    "region": null,
+    "city": null,
+    "sub_continent": null,
+    "metro": null
+  },
+  "app_info": null,
+  "traffic_source": {
+    "name": null,
+    "medium": null,
+    "source": null
+  },
+  "stream_id": null,
+  "platform": null,
+  "event_dimensions": null,
+  "ecommerce": null,
+  "items": []
+}]
